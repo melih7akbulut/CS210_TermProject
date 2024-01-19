@@ -33,6 +33,7 @@ Clone the GitHub repository.
 Use the requirements.txt file to install the necessary dependencies.
 Open the project in Jupyter Notebook or a Python IDE.
 Execute the code step by step to observe the results.
-Results and Visuals
+
+Results and Visuals:
 
 The project includes visuals such as line charts showing seasonal trends, learning curves, and prediction outcomes. These visuals support the project's findings.
